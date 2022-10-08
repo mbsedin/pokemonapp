@@ -11,7 +11,7 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  "homepage": "https://mbsedin.github.io/pokemonapp",
+  "homepage": "https://github.com/mbsedin/pokemonapp#readme",
   "name": "8.pokemon",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "version": "1.0.0",
@@ -32,5 +32,16 @@
   "bugs": {
     "url": "https://github.com/mbsedin/pokemonapp/issues"
   },
-  "homepage": "https://github.com/mbsedin/pokemonapp#readme"
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
