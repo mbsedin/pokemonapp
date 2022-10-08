@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mbsedin/pokemonapp/static/css/main.7c9137ea.css",
+    "main.js": "/mbsedin/pokemonapp/static/js/main.e4e5d744.js",
+    "index.html": "/mbsedin/pokemonapp/index.html",
+    "main.7c9137ea.css.map": "/mbsedin/pokemonapp/static/css/main.7c9137ea.css.map",
+    "main.e4e5d744.js.map": "/mbsedin/pokemonapp/static/js/main.e4e5d744.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c9137ea.css",
+    "static/js/main.e4e5d744.js"
+  ]
+}
